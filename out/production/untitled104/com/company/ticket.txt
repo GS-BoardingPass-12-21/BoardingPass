@@ -1,0 +1,10 @@
+***********************************************
+* Ticket Number: 1b0c4047-66f9-4051-aac9-a7eeb37ca227             Date: Tue 1/4/2022            
+* Name: Darren                      Age: 10            
+* Gender: Male                    Email: darren@test.com            
+* Phone: 814-444-1221            
+* Origin: Buffalo, NY                    Destination: Erie, PA            
+* Departure Time: 11:00 AM            ETA: 12:00 PM            
+* Price: 25.0            
+***********************************************
+
